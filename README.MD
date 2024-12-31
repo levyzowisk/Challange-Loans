@@ -1,3 +1,7 @@
+# Challange-Loans
+My solution (TypeScript version) to the Back-End BR "loans" challenge.
+
+
 # TSCONFIG.json
  - O arquivo tsconfig.json é um arquivo de configuração utilizado pelo typescript para controlar como o compilador(tsc) deve processar o código do seu projeto.
 
